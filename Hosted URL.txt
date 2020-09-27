@@ -1,0 +1,20 @@
+http://ec2-3-16-215-178.us-east-2.compute.amazonaws.com:8084/
+or
+http://3.16.215.178:8084/
+
+
+Hosted  api's : 
+
+http://3.16.215.178:8084/connect4/start 
+  eg : http://3.16.215.178:8084/connect4/start
+
+
+http://3.16.215.178:8084/connect4/games/:{gameid}/users/:{userid}/steps
+  eg :   http://3.16.215.178:8084/connect4/games/game14/users/user1/steps
+
+
+http://3.16.215.178:8084/connect4/games/:{gameid}/users/:{userid}/7
+    eg :http://3.16.215.178:8084/connect4/games/game14/users/user1/5
+
+
+
